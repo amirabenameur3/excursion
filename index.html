@@ -6,9 +6,11 @@
     <link rel="stylesheet" href="./ressources/css/index.css">
     <link href="https://fonts.googleapis.com/css?family=Verdana" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css">
-    <title>Excursion Project</title>
+    <title>Excursion | Travel Landing Page</title>
 </head>
+
 <body>
+
     <!-- Header -->
     <header>
         <h1>Discover hidden places in the world around you</h1>
@@ -17,34 +19,41 @@
 
     <!-- Main Content -->
 
-    <div class="main-content"> 
+    <main class="main-content"> 
 
         <!-- Section 1: Introduction -->
 
-        <div class="media">
-            <video src="./ressources/videos/excursion.mp4" type="video/mp4" autoplay muted loop playsinline>Video not supported</video>
-        </div>
+        <section class="media">
+            <video autoplay muted loop playsinline>
+                <source src="./ressources/videos/excursion.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
 
         <!-- Section 2: Features -->
-        <div class="features">
-            <h2 class="title">Your personal travel guide</h2>
-            <p class="description">Excursion remembers places you like, and recommends new points of interest around you.</p>
-            <img src="./ressources/images/camp.jpg" alt="camp image">
-        </div>
+        <section class="features">
+            <div class="container">
+                <h2 class="title">Your personal travel guide</h2>
+                <p class="description">Excursion remembers places you like, and recommends new points of interest around you.</p>
+                <img src="./ressources/images/camp.jpg" alt="Tent campsite at night">
+            </div>
+        </section>
 
         <!-- Section 3: Download -->
-        <div class="download" id="download">
-            <img src="./ressources/images/phone.png" alt="mobile image">
+        <section class="download" id="download">
+            <img src="./ressources/images/phone.png" alt="Illustration of a mobile phone">
             <h2>Coming Soon for iPhone and Android</h2>
             <a href="#download" class="download-link">Download Excursion (coming soon!)</a>
-        </div>
+        </section>
 
-        <!-- Footer -->
-        <footer>
-            <i id="copyright-icon" class="fas fa-copyright fa-lg"></i>
-            <span class="copyright">Excursion</span>
-        </footer>
-    </div>
+    </main>
+
+    <!-- Footer -->
+     <footer>
+        <i id="copyright-icon" class="fas fa-copyright fa-lg"></i>
+        <span class="copyright">Excursion</span>
+    </footer>
+    
 
 </body>
 </html>
