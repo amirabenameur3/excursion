@@ -61,6 +61,7 @@ The goal was to practice:
 
 ## 📁 Project Structure
 
+```
 excursion
 │
 ├── index.html
@@ -80,8 +81,7 @@ excursion
     │
     └── videos
         └── excursion.mp4
-
----
+```
 
 ## 🧠 What I Learned
 
