@@ -16,6 +16,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/repo-size/amirabenameur3/excursion">
+  <img src="https://img.shields.io/github/last-commit/amirabenameur3/excursion">
+</p>
+
+<p align="center">
   <a href="https://amirabenameur3.github.io/excursion/">
   <img src="https://img.shields.io/badge/🌐-Live%20Demo-38bdf8?style=for-the-badge">
   </a>
