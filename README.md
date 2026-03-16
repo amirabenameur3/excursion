@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://amirabenameur3.github.io/Website_Design_System/">
+  <a href="https://amirabenameur3.github.io/excursion/">
   <img src="https://img.shields.io/badge/🌐-Live%20Demo-38bdf8?style=for-the-badge">
   </a>
 </p>
