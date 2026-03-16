@@ -1,116 +1,151 @@
-# Excursion Landing Page
+<p align="center">
+  <img src="./docs/Excursion_landingpage_preview.png" width="900" alt="Excursion website preview">
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github)](https://amirabenameur3.github.io/excursion/)
+<h1 align="center">🌍 Excursion Landing Page</h1>
 
-![Excursion Preview](docs/Excursion_landingpage_preview.png)
+<p align="center">
+  A modern landing page for a fictional travel app designed to help users record and share their experiences.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Landing-Page-blue">
+  <img src="https://img.shields.io/badge/Responsive-Design-38bdf8">
+</p>
+
+<p align="center">
+  <a href="https://amirabenameur3.github.io/Website_Design_System/">
+  <img src="https://img.shields.io/badge/🌐-Live%20Demo-38bdf8?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## 📸 Preview
+## 📖 Project Overview
 
-Excursion is a **travel landing page** designed to promote a fictional mobile app that helps users discover hidden places around them.
+This project is a **landing page website** that promotes a fictional mobile application called **Excursion**.
 
-The website presents a clean, modern layout with a hero section, promotional video, feature description, and a call-to-action encouraging users to download the app.
+The app allows users to **record and share travel experiences**, and the page uses scenic imagery and video to showcase the concept and attract potential users.
 
----
+This project was built as part of my **front-end development learning journey** and focuses on practicing core web development skills such as:
 
-## 🌐 Live Demo
-
-You can view the project here:
-
-https://amirabenameur3.github.io/excursion/
-
----
-
-## 🛠 Project Overview
-
-This project focuses on building a **simple product landing page** using HTML and CSS.
-
-The goal was to practice:
-
-- structuring a landing page layout
-- embedding and styling video content
-- creating responsive sections
-- improving typography and spacing
-- designing call-to-action buttons
+- HTML page structure
+- CSS styling
+- layout and typography
+- Git and GitHub workflow
+- publishing a website with **GitHub Pages**
 
 ---
 
 ## ✨ Features
 
-- Hero section with promotional message
-- Embedded autoplay promotional video
-- Travel feature section with imagery
-- Call-to-action download section
-- Clean minimal dark theme
-- Responsive layout
-- Hover effects and polished styling
-
----
-
-## 💡 Technologies Used
-
-- HTML5
-- CSS3
-- Flexbox
+- Clean landing page layout
+- Embedded background video
+- Mobile-app style marketing section
+- Call-to-action buttons
+- Scenic imagery for visual storytelling
 - Responsive design
-- Google Fonts
-- Font Awesome
 
 ---
 
-## 📁 Project Structure
+## 🧰 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **Flexbox**
+- **Responsive Design**
+- **Git & GitHub Pages**
+
+---
+
+## 🎬 Demo
+
+<p align="center">
+  <img src="./docs/demo.gif" width="900" alt="Excursion website demo">
+</p>
+
+---
+
+# 📸 Website Sections
+
+The landing page includes several main sections:
+
+### Hero Section
+Promotes the Excursion app with a background video.
+
+### Feature Highlight
+Explains the app’s ability to record travel experiences.
+
+### Scenic Preview
+Displays beautiful landscape imagery to inspire exploration.
+
+### Call to Action
+Encourages users to download the app.
+
+---
+
+# 📁 Project Structure
 
 ```
 excursion
 │
 ├── index.html
+├── README.md
+├── excursion_map_favicon.ico
 │
 ├── docs
-│   └── Excursion_landingpage_preview.png
+│   ├── Excursion_landingpage_preview.png
+│   └── demo.gif
 │
-└── ressources
+└── resources
     ├── css
     │   └── index.css
     │
     ├── images
-    │   ├── camp.jpg
-    │   ├── excursion.png
-    │   ├── excursion_redline.png
-    │   └── phone.png
     │
     └── videos
-        └── excursion.mp4
 ```
 
-## 🧠 What I Learned
+---
+
+# 🧠 What I Learned
 
 While building this project I practiced:
 
-- structuring landing pages with semantic HTML
-- styling layouts with Flexbox
-- embedding and controlling video elements
-- improving UI design with spacing and typography
-- building responsive sections for different screen sizes
+- Creating structured HTML layouts
+- Styling landing pages with CSS
+- Embedding videos in web pages
+- Managing projects with Git and GitHub
+- Publishing websites using GitHub Pages
 
 ---
 
-## 🚀 Future Improvements
+# 🚀 Future Improvements
 
-Possible improvements for the project:
+Possible improvements for this project:
 
-- add a navigation bar
-- improve animations and transitions
-- add scroll-based effects
-- enhance the mobile layout
-- add JavaScript interactions
+- Add animations and transitions
+- Improve mobile responsiveness
+- Add interactive elements with JavaScript
+- Include a pricing or feature comparison section
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-PhD researcher & Front-End development learner
+**Amira Ben Ameur**
+
+PhD researcher in Structural & Transportation Engineering  
+Front-End Development learner
 
 GitHub  
 https://github.com/amirabenameur3
+
+---
+
+## ⭐ If you like the project
+
+Give the repository a **star on GitHub** ⭐
 
